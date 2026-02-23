@@ -1,7 +1,7 @@
 // Configuration loaded from HTML data attributes
 const CONFIG = (() => {
   return {
-    GAMES_PER_PAGE: 48,
+    GAMES_PER_PAGE: 100,
     MAX_DESCRIPTION_LENGTH: 400,
     GAUGE_RADIUS: 10,
     COMPLEXITY_THRESHOLDS: [1.5, 2.5, 3.5, 4.5],
